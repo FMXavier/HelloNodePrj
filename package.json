@@ -1,0 +1,24 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Teste de Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "..\\node index.js"
+  },
+  "author": "Flávio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FMXavier/HelloNodePrj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FMXavier/HelloNodePrj/issues"
+  },
+  "homepage": "https://github.com/FMXavier/HelloNodePrj#readme"
+}
