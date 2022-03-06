@@ -10,7 +10,7 @@
         {
             "type": "node",
             "request": "launch",
-            "runtimeExecutable": "C:\\temp\\node\\node.exe",
+            "runtimeExecutable": "node.exe",
             "name": "Launch Program",
             "program": "${workspaceFolder}\\index.js"
         }
